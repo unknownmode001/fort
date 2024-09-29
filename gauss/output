@@ -1,0 +1,14 @@
+
+ 1) The given number of equations is 2
+
+ The elements of argumented matrix is
+   9.000000   8.000000   7.000000
+   2.000000   9.000000   3.000000
+
+ The upper triangle matrix is 
+   9.000000   8.000000   7.000000
+    .000000   7.222222   1.444444
+
+The solutions are
+x(1) =    .600000
+x(2) =    .200000

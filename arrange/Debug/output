@@ -1,0 +1,11 @@
+ the given numbers are
+       40.000000       10.000000        1.000000       80.000000
+       75.000000
+ ascending order of given numbers
+        1.000000       10.000000       40.000000       75.000000
+       80.000000
+ descending order of given numbers
+       80.000000       75.000000       40.000000       10.000000
+        1.000000
+ the largest number is =      80.000000
+ the smallest number is =       1.000000

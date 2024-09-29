@@ -1,0 +1,47 @@
+
+ 1) The dimension of matrix is 2
+  The elements of matrix are
+        2.000000        5.000000
+        3.000000        6.000000
+
+ The argumented matrix is
+   2.00   5.00   1.00    .00
+   3.00   6.00    .00   1.00
+
+ Diagonalised matrix is
+   2.00    .00  -4.00   3.33
+    .00  -1.50  -1.50   1.00
+
+The resultant matrix is
+   1.00    .00  -2.00   1.67
+    .00   1.00   1.00   -.67
+
+The inverse matrix is 
+  -2.000000   1.666667
+   1.000000   -.666667
+
+ 2) The dimension of matrix is 3
+  The elements of matrix are
+        6.000000        3.000000        4.000000
+        7.000000        2.000000        5.000000
+        8.000000        9.000000       11.000000
+
+ The argumented matrix is
+   6.00   3.00   4.00   1.00    .00    .00
+   7.00   2.00   5.00    .00   1.00    .00
+   8.00   9.00  11.00    .00    .00   1.00
+
+ Diagonalised matrix is
+   6.00    .00    .00   2.26   -.30   -.69
+    .00  -1.50    .00   -.91    .84   -.05
+    .00    .00   6.78  -5.22   3.33   1.00
+
+The resultant matrix is
+   1.00    .00    .00    .38   -.05   -.11
+    .00   1.00    .00    .61   -.56    .03
+    .00    .00   1.00   -.77    .49    .15
+
+The inverse matrix is 
+    .377049   -.049180   -.114754
+    .606557   -.557377    .032787
+   -.770492    .491803    .147541
